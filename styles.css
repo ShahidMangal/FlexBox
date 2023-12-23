@@ -1,0 +1,174 @@
+/* Flex box basis */
+
+/* .flex-container{
+    display: flex;
+    background-color: green;
+
+}
+
+.flex-container>div{
+    background-color: red;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+} */
+
+/* #######################1-flex-container################ */
+/* ########################flex direcion############# */
+
+/* .flex-container{
+    display: flex;
+    background-color: yellow;
+    flex-direction: column; */
+/* flex-direction: column-reverse;
+    flex-direction: row-reverse;
+}
+
+.flex-container>div{
+    background-color: blue;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+} */
+
+/* ###########flex-wrap############ */
+
+/* .flex-container {
+  display: flex;
+  background-color: yellow;
+  flex-wrap: wrap;
+  flex-wrap: wrap-reverse;
+}
+.flex-container > div {
+  background-color: blue;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+} */
+
+/* ###################flex-flow################## */
+
+/* .flex-container {
+  display: flex;
+  background-color: yellow;
+flex-flow: row wrap;
+}
+.flex-container > div {
+  background-color: blue;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+} */
+
+/* ###################justify-contient################## */
+
+/* .flex-container {
+  display: flex;
+  background-color: yellow;
+  justify-content: center;
+}
+.flex-container > div {
+  background-color: blue;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+} */
+
+/* ###################align-items################## */
+
+/* .flex-container {
+  display: flex;
+  background-color: yellow;
+  height: 200px;
+  align-items: center;
+
+
+}
+.flex-container > div {
+  background-color: blue;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+} */
+
+/* ################align-content################ */
+
+/* .flex-container {
+  display: flex;
+  background-color: yellow;
+  flex-wrap: wrap;
+  height: 600px;
+  align-content:space-between;
+  overflow: scroll;
+
+}
+.flex-container>div {
+  background-color: blue;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+} */
+
+/* ###############perfect-center############### */
+
+/* .flex-container {
+  display: flex;
+  background-color: yellow;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+
+}
+.flex-container > div {
+  background-color: blue;
+  color: white;
+  height: 100px;
+  width: 100px;
+ 
+} */
+
+/* ###############flex-items */
+/* #################order################## */
+
+/* .flex-container {
+  display: flex;
+align-items: stretch;
+background-color: yellow;
+}
+.flex-container > div {
+  background-color: blue;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+} */
+
+/* ###############flex-grow */
+
+.flex-container {
+  display: flex;
+align-items: stretch;
+background-color: yellow;
+}
+.flex-container > div {
+  background-color: blue;
+  color: white;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
